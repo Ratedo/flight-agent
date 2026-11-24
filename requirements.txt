@@ -1,0 +1,6 @@
+langgraph==1.0.10
+pandas==2.3.3
+psycopg[binary]==3.2.13
+pydantic==2.12.5
+rich==14.3.3
+prompt_toolkit==3.0.52

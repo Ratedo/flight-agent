@@ -1,0 +1,6 @@
+.env
+.venv/
+.venv-deps/
+__pycache__/
+*.key
+*.jsonl
